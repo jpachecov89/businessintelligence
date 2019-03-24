@@ -9,3 +9,8 @@ create table tmp(
 login varchar2(80),
 password varchar2(80)
 )
+
+create table alterna(
+codigo int,
+numero int,
+referencia int)

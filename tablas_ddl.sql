@@ -6,6 +6,6 @@ dni char(8)
 tablespace tmp;
 
 create table tmp(
-login varchar2(40),
+login varchar2(80),
 password varchar2(80)
-);
+)
